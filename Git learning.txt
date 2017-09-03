@@ -1,4 +1,6 @@
 test
+<<<<<<< HEAD
+test 2
 =======
 
 hi bava
